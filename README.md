@@ -1,9 +1,7 @@
 # Hi, I'm Gregory ! 👋
-
+Welcome to my Github profile !
 
 ## 🚀 About Me
-Welcome to my GitHub profile!
-
 I am a French full stack developer passionate about cybersecurity and studying in this field. Very curious about new technologies, I like to learn new things.
 
 As a full stack developer, I am comfortable with several programming languages such as JavaScript, Python, PHP, and I have strong skills in web development, database, API development and DevOps .
