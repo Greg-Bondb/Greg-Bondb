@@ -26,7 +26,6 @@ c++, Javascript, php...
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Greg-Bondb&theme=nord&hide_border=true" />
 </a>
 
 ## Authors
