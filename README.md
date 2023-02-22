@@ -20,13 +20,14 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 c++, Javascript, php...
 
 ## 🖥️ Statistics
-<p align="center">
+<div align="center">
   <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
-</a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
+  </a>
+</div>
 
 ## Authors
 
