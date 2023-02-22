@@ -19,10 +19,15 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 ## 🛠 Skills
 c++, Javascript, php...
 
+<p align="center">
+  <img width=20% src="imports/stats.png" alt="GitHub Readme Stats" />
+</p>
+
 ## Authors
 
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
 
+## Statistics
 <p align="center">
   <img src="imports/profil.png" width=15%>
 </p>
