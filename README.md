@@ -19,9 +19,11 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 ## 🛠 Skills
 c++, Javascript, php...
 
-## Statistics
+## 🖥️ Statistics
 <p align="center">
-  <img width=20% src="imports/stats.svg" alt="GitHub Readme Stats" />
+  <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username={Greg-Bondb}&theme=blue-green">
+  
 </p>
 
 ## Authors
