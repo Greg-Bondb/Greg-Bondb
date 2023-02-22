@@ -20,11 +20,11 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 ## 🛠 Skills
 c++, Javascript, php...
 
-
+<p align="center">
 ## Authors
 
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
 
-<p align="center">
-  <img src="https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png" width=20%>
+
+  <img src="https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png" width=15%>
 </p>
