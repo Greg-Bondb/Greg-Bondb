@@ -26,4 +26,4 @@ c++, Javascript, php...
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
 
 
-![Logo](https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png)
+![Logo](https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png width=20%)
