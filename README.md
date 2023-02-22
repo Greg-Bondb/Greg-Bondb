@@ -22,7 +22,7 @@ c++, Javascript, php...
   <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
 </p>
 
-## Authors
+## 📘 Authors
 
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
 
