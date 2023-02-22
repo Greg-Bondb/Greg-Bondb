@@ -25,5 +25,6 @@ c++, Javascript, php...
 
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
 
-
-<img src="https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png" width=20%>
+<p align="center">
+  <img src="https://github.com/Greg-Bondb/Greg-Bondb/blob/main/imports/profil.png" width=20%>
+</p>
