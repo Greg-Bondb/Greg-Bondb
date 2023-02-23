@@ -11,7 +11,7 @@ My interest in cybersecurity led me to focus on understanding security best prac
 I am open to collaboration and learning opportunities, and I enjoy working in a team on ambitious projects. I adopt an AGILE approach to facilitate collaboration and communication between team members. If you are interested in my profile, do not hesitate to contact me to discuss your projects and opportunities to work together.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://greg-bondb.github.io/Portfolio-Balatre-Gregory/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-992131?style=for-the-badge&logo=ko-fi&logoColor=white)](https://greg-bondb.github.io/Portfolio-Balatre-Gregory/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-balatre-6a2187220/)
 
 ## 🛠 Skills
