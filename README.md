@@ -26,7 +26,7 @@ c++, Javascript, php...
 <span><img src="imports/invisible.png" height=50 width=150 /></span>
 
 <div align="center" width="100%">
-  <img width=20% style="margin-bottom: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+  <img width=50% style="margin-bottom: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
 </div>
 <div align="center" width="100%">
   <img width=20% style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
