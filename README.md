@@ -19,7 +19,7 @@ c++, Javascript, php...
 
 ## 🖥️ Statistics
 
-<div align="center" width="100%">
+<div align="center" width="100%" style="margin-bottom: 20px">
   <img width=15% style="margin-bottom: 20px" src="imports/stats.svg" alt="GitHub Readme Stats" />
 </div>
 <div align="center" width="100%">
