@@ -19,13 +19,6 @@ c++, Javascript, php...
 
 ## 🖥️ Statistics
 
-<table>
-  <tr>
-    <td valign="top"><img src="imports/stats.svg" alt="GitHub Readme Stats"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord"/></td>
-  </tr>
-</table>
-
 <div align="center" width="100%">
   <img align=top width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
