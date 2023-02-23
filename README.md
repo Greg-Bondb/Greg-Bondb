@@ -19,10 +19,10 @@ c++, Javascript, php...
 
 ## 🖥️ Statistics
 
-<div align="center" width="">
+<div align="center" width="100%">
   <img width=15% style="margin-bottom: 20px" src="imports/stats.svg" alt="GitHub Readme Stats" />
 </div>
-<div align="center" width="">
+<div align="center" width="100%">
   <img width=20% style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
 </div>
 <div align="center" width="100%">
