@@ -25,7 +25,7 @@ c++, Javascript, php...
   </a>
 </div>
 
-<div align="center" width="100%">
+<div align="top" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
     <img width=40% src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
