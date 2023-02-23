@@ -21,6 +21,8 @@ c++, Javascript, php...
 
 <div align="center" width="">
   <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
+</div>
+<div align="center" width="">
   <img width=20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
 </div>
 <div align="center" width="100%">
