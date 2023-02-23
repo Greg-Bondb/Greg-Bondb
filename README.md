@@ -20,13 +20,13 @@ c++, Javascript, php...
 ## 🖥️ Statistics
 
 <div align="center" width="">
-  <img width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
+  <img width=15% style="margin-bottom: 20px" src="imports/stats.svg" alt="GitHub Readme Stats" />
 </div>
 <div align="center" width="">
-  <img width=20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+  <img width=20% style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
 </div>
 <div align="center" width="100%">
-  <img width=20% align="top" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
+  <img width=20% style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
 </div>
 
 ## 📘 Authors
