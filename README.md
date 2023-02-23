@@ -63,7 +63,3 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 ## 📘 Authors
 
 - [@Greg-Bondb](https://github.com/Greg-Bondb)
-
-<p align="center">
-  <img src="imports/profil.png" width=15%>
-</p>
