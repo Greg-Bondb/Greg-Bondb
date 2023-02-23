@@ -29,14 +29,14 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
-## 🛠 Web Modeling
+## 🖥️ Web Modeling
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
-## 🛠 My IDE
+## 🧰 My IDE
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -46,7 +46,7 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-## 🖥️ Statistics
+## 📊 Statistics
 
 <span><img src="imports/invisible.png" height=30 width=10 /></span>
 
