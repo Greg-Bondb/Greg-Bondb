@@ -19,10 +19,6 @@ c++, Javascript, php...
 
 ## 🖥️ Statistics
 
-<div align="center" width="100%">
-
-</div>
-
 <span><img src="imports/invisible.png" height=30 width=10 /></span>
 
 <div align="center" width="100%">
