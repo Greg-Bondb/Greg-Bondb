@@ -19,7 +19,8 @@ c++, Javascript, php...
 
 ## 🖥️ Statistics
 
-<div align="center" display="column">
+<div align="center" display="flex" flex-direction="column">
+  <img align=top width=15% src="imports/stats.svg" alt="GitHub Readme Stats" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Bondb&card_width=400&langs_count=10&hide_border=true&theme=nord" />
     <img align=top src="https://github-readme-stats.vercel.app/api?username=Greg-Bondb&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
