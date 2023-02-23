@@ -38,7 +38,7 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
 
 ## 🛠 My IDE
 <div>
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
+  <img src="https://img.shields.io/badge/CLion-83A03D?style=for-the-badge&logo=clion&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
