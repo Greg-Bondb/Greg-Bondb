@@ -23,12 +23,22 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-9C9C9C?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</div>
+
+## ♨️ softwares
+<div>
   <img src="https://img.shields.io/badge/Unity-4D5645?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-8B89CC?style=for-the-badge&logo=docker&logoColor=white">
-
+  <img src="https://img.shields.io/badge/MySQL-9C9C9C?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-00457C?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/Wampserver-E6007A?style=for-the-badge&logo=wampserver&logoColor=000">
+  <img src="https://img.shields.io/badge/Wireshark-4A90E2?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/BurpSuite-090020?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-A6A9AA?style=for-the-badge&logo=cisco&logoColor=white">
 </div>
 
 ## 🖥️ Web Modeling
