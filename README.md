@@ -28,7 +28,7 @@ I am open to collaboration and learning opportunities, and I enjoy working in a 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
-## ♨️ oftwares
+## ♨️ Softwares
 <div>
   <img src="https://img.shields.io/badge/Unity-4D5645?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-8B89CC?style=for-the-badge&logo=docker&logoColor=white">
